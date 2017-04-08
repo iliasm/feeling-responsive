@@ -1,6 +1,7 @@
 - title: Home
   url: "/"
   side: left
+ 
 - title: "The Spirits"
   url: "/spirits/index.html"
   side: left
