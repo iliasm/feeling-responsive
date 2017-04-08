@@ -1,49 +1,24 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
-
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/GreekDistillery
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Greek Distillery on Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Facebook
+  url: https://www.facebook.com/GreekDistillery
+  class: icon-facebook
+  title: "Greek Distillery on Facebook"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+- name: Instagram
+  url: https://instagram.com/GreekDistillery
+  class: icon-instagram
+  title: "Greek Distillery on Instagram"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Soundcloud
+  url: https://soundcloud.com/GreekDistillery
+  class: icon-soundcloud
+  title: "Greek Distillery on Soundcloud"
 
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
+- name: Pinterest
+  url: https://www.pinterest.com/GreekDistillery/
+  class: icon-pinterest
+  title: "Greek Distillery on Pinterest"
