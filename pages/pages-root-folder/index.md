@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: greece.png
 widget1:
   title: "The Distillery Nation Podcast"
   url: '/podcast/'
