@@ -1,24 +1,24 @@
 - name: Twitter
   url: https://twitter.com/GreekDistillery
   class: icon-twitter
-  title: "Greek Distillery on Twitter"
+  title: "Mastrogiannis on Twitter"
 
 - name: Facebook
   url: https://www.facebook.com/GreekDistillery
   class: icon-facebook
-  title: "Greek Distillery on Facebook"
+  title: "Mastrogiannis on Facebook"
 
 - name: Instagram
   url: https://instagram.com/GreekDistillery
   class: icon-instagram
-  title: "Greek Distillery on Instagram"
+  title: "Mastrogiannis on Instagram"
 
 - name: Soundcloud
   url: https://soundcloud.com/GreekDistillery
   class: icon-soundcloud
-  title: "Greek Distillery on Soundcloud"
+  title: "Mastrogiannis on Soundcloud"
 
 - name: Pinterest
   url: https://www.pinterest.com/GreekDistillery/
   class: icon-pinterest
-  title: "Greek Distillery on Pinterest"
+  title: "Mastrogiannis on Pinterest"
