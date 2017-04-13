@@ -12,7 +12,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/TTBPermit.jpg"
+    title: "TTBPermit.jpg"
     caption: TTB Permit picture posted on our Facebook page
     caption_url: https://www.facebook.com/GreekDistillery/
 ---

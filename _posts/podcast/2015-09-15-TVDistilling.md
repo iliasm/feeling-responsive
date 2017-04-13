@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/tvdistilling.jpg"
+    title: "tvdistilling.jpg"
     caption: TVDistilling
     caption_url: http://www.tvdistilling.com/
 ---

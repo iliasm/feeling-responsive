@@ -12,7 +12,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/letterpress.jpg"
+    title: "letterpress.jpg"
     caption: Letterpress Limoncello
     caption_url: http://www.letterpressdistilling.com/
 ---

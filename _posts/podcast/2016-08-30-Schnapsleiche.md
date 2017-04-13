@@ -12,7 +12,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/schnapsleiche.jpg"
+    title: "schnapsleiche.jpg"
     caption: Schnapsleiche Vodka
     caption_url: http://www.schnapsleichespirits.com/
 ---

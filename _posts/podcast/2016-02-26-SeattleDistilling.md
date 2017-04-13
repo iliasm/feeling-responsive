@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/SeattleDistilling.png"
+    title: "SeattleDistilling.png"
     caption: Seattle Distilling
     caption_url: http://www.seattledistilling.com/
 ---

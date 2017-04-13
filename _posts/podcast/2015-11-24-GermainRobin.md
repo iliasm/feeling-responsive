@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/GermainRobin.jpg"
+    title: "GermainRobin.jpg"
     caption: Germain-Robin
     caption_url: http://craftdistillers.com/products/germain-robin/
 ---

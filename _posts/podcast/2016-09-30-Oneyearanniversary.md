@@ -12,7 +12,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/oneyearanniversary.jpg"
+    title: "oneyearanniversary.jpg"
     caption: One Year since the Distillery Nation went live
 ---
 The Distillery Nation Podcast is celebrating its one year. I started this project on September 15, 2015 and here we are a year later and going strong. I wanted to keep this month episode short and with a quick overview of where I'm at in terms of the distillery. I also have links to the newly shop that went live along with tips for doing a small launch. In this episode I talk about some of the mistakes I did recently, the Ouzo, and what's coming next.

@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/Gina.jpg"
+    title: "Gina.jpg"
     caption: Gina our pot still waiting in storage
     
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 subheadline: Podcast
 title:  "Distillery Nation Podcast #18 - Admiralty Distillers"
@@ -12,7 +12,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/Admiralty.jpg"
+    title: "Admiralty.jpg"
     caption: Admiralty Brandy
     caption_url: http://admiraltydistillers.com/
 ---

@@ -12,7 +12,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "/FourPillars.jpg"
+    title: "FourPillars.jpg"
     caption: Four Pillars Gin
     caption_url: https://www.fourpillarsgin.com.au/
 ---
