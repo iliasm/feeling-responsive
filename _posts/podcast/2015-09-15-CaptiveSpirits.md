@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "BigGin.jpg"
+    title: "/BigGin.jpg"
     caption: Big Gin
     caption_url: http://www.captivespiritsdistilling.com/
 ---

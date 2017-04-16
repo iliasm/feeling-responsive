@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "bigbottom.png"
+    title: "/bigbottom.png"
     caption: Big Bottom Distilling
     caption_url: http://www.bigbottomdistilling.com/
 ---

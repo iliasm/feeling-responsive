@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 subheadline: Podcast
 title:  "Distillery Nation Podcast #21 - Dianna Connelly"
@@ -12,7 +12,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "DiannaInsurance.png"
+    title: "/DiannaInsurance.png"
     caption: Dianna Connelly
     caption_url: http://www.altavistainsurance.com/staff/dianna_connelly/
 ---

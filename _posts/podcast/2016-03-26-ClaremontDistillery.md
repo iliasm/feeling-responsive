@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "Claremont.jpg"
+    title: "/Claremont.jpg"
     caption: Claremont Distillery
     caption_url: http://www.claremontdistillery.com/
 ---

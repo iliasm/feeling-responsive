@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "SoundSpirits.jpg"
+    title: "/SoundSpirits.jpg"
     caption: Sound Spirits
     caption_url: http://www.drinksoundspirits.com/
 ---

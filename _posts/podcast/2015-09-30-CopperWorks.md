@@ -11,7 +11,7 @@ categories:
 tags:
     - podcast
 image:
-    title: "Copperworks.jpg"
+    title: "/Copperworks.jpg"
     caption: CopperWorks
     caption_url: http://www.copperworksdistilling.com/
 ---
