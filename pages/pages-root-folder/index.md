@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: greece.png
+  image_fullwidth: /greece.png
 widget1:
   title: "The Distillery Nation Podcast"
   url: '/podcast/index.html'
-  image: DistilleryNation_logo.png
+  image: /DistilleryNation_logo.png
   text: 'Take a deep dive into craft distilling and listen into the stories of what it takes to be in this business.'
 widget2:
   title: "Why Brandy?"
   url: '/thestory/index.html'
   text: '1. Brandy allows for alot more creative expressions.<br/>2. Because we love it :)<br/>3. Its a very versatile spirit<br/>4. We come from a winemaking backround.<br/>'
-  image: grapes_small.jpg
+  image: /grapes_small.jpg
 widget3:
   title: "Contact Us"
   url: '/contact/index.html'
-  image: contact.jpg
+  image: /contact.jpg
   text: Give us a call or email us if you want to come visit the distillery or reach out to us via Twitter <a href="https://twitter.com/GreekDistillery">@GreekDistillery</a>.
 #
 # Use the call for action to show a button on the frontpage
