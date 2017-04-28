@@ -16,7 +16,7 @@ image:
     caption: Hoochlaw
     caption_url: https://hoochlaw.com/
 ---
-In this episode of the Distillery Nation Podcast I chatted with Brian Defoe. Brian is a Seattle based attroney specializing in distilled spirits law. He's been featured in the Whiskey Reviewer and Artisian Spirits maganize and you can also found him over at hoochlaw.com where he often blogs all things hooch!
+In this episode of the Distillery Nation Podcast I chatted with Brian Defoe. Brian is a Seattle based attorney specializing in distilled spirits law. He's been featured in the Whiskey Reviewer and Artisian Spirits maganize and you can also found him over at hoochlaw.com where he often blogs all things hooch!
 
 
 
