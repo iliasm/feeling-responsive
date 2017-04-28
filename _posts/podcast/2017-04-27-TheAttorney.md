@@ -21,7 +21,7 @@ In this episode of the Distillery Nation Podcast I chatted with Brian Defoe. Bri
 
 
 <h4>Listen to Brian's interview</h4>
-<audio src="http://www.mastrogiannisdistillery.com/distillerynation/2017/023-DNP-theattorney.mp3" type="audio/mp3" controls="controls"></audio>
+<audio src="http://www.mastrogiannisdistillery.com/distillerynation/2017/023-DNP-TheAttorney.mp3" type="audio/mp3" controls="controls"></audio>
 
 
 <h3>LINKS AND RESOURCES MENTIONED IN THIS EPISODE</h3>
