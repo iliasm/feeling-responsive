@@ -1,6 +1,6 @@
 - menu_name: "Misc"
 
-- name: "Contact"
+- name: "Contact us"
   url: "/contact/index.html"
   title: "Contact"
 
@@ -8,10 +8,10 @@
   url: "/feed.xml"
   title: "Subscribe to RSS Feed"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+- name: "Privacy Policy"
+  url: "/privacypolicy/index.html"
+  title: "Our Private Policy"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: "Terms and Conditions"
+  url: "/termsandconditions/index.html"
+  title: "Our Terms and Conditions"
