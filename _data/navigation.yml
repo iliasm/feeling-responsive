@@ -14,10 +14,10 @@
   url: "/podcast/index.html"
   side: left
   dropdown:
+  - title: "The Consultant"
+    url: "/podcast/TheConsultant/index.html"
   - title: "The Attorney"
     url: "/podcast/TheAttorney/index.html"
-  - title: "Four Pillars"
-    url: "/podcast/FourPillars/index.html"
   - title: "More Podcast Episodes"
     url: "/podcast/archive/index.html"
 - title: The Story
