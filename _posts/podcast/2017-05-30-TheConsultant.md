@@ -2,7 +2,7 @@
 layout: page
 subheadline: Podcast
 title:  "Distillery Nation Podcast #24 - David Dunbar"
-teaser: "In this episode we talk to an David Dunbar, a 45 year veteran in the distilled spirits federal law"
+teaser: "In this episode we talk to David Dunbar, a 45 year veteran in the distilled spirits federal law"
 breadcrumb: false
 show_meta: false
 mediaplayer: true
