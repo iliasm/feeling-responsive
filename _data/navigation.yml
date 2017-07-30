@@ -10,14 +10,16 @@
     url: "/spirits/ouzo/index.html"
   - title: "Grappa"
     url: "/spirits/grappa/index.html"
+  - title: "Rakomelo"
+    url: "/spirits/rakomelo/index.html"
 - title: "The Podcast"
   url: "/podcast/index.html"
   side: left
   dropdown:
+  - title: "Sea Bishop"
+    url: "/podcast/SeaBishop/index.html"
   - title: "The Designer"
     url: "/podcast/TheDesigner/index.html"
-  - title: "The Consultant"
-    url: "/podcast/TheConsultant/index.html"
   - title: "More Podcast Episodes"
     url: "/podcast/archive/index.html"
 - title: The Story

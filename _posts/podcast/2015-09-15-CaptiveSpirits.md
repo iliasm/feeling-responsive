@@ -2,7 +2,7 @@
 layout: page
 subheadline: Podcast
 title:  "Distillery Nation Podcast #01 - Captive Spirits"
-teaser: "We interviewed Ben Capdevielle from Captive Spirts"
+teaser: "In our first episode we interviewed Ben Capdevielle from Captive Spirts"
 breadcrumb: false
 show_meta: false
 permalink: "/podcast/CaptiveSpirits/index.html"
