@@ -16,10 +16,10 @@
   url: "/podcast/index.html"
   side: left
   dropdown:
-  - title: "Sea Bishop"
-    url: "/podcast/SeaBishop/index.html"
-  - title: "The Designer"
-    url: "/podcast/TheDesigner/index.html"
+  - title: "Two Year Anniversary"
+    url: "/podcast/TwoYearAnniversary/index.html"
+  - title: "My Dad"
+    url: "/podcast/MyDad/index.html"
   - title: "More Podcast Episodes"
     url: "/podcast/archive/index.html"
 - title: The Story
