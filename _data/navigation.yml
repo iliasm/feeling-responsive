@@ -16,10 +16,10 @@
   url: "/podcast/index.html"
   side: left
   dropdown:
-  - title: "Two Year Anniversary"
-    url: "/podcast/TwoYearAnniversary/index.html"
-  - title: "My Dad"
-    url: "/podcast/MyDad/index.html"
+  - title: "3 Howls Distillery"
+    url: "/podcast/ThreeHowls/index.html"
+  - title: "Argo Distillery"
+    url: "/podcast/Argo/index.html"
   - title: "More Podcast Episodes"
     url: "/podcast/archive/index.html"
 - title: The Story
