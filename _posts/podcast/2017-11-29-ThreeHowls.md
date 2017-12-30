@@ -26,12 +26,12 @@ In this episode of the Distillery Nation Podcast I chatted with Will Maschmeier 
 
 [3 Howls Distillery][1]
 
-[Book #1: Alt Whiskeys: Alternative Whiskey Recipes and Distilling][2]
+[Book #1: Alt Whiskeys: Alternative Whiskey Recipes and Distilling (Affiliate)][2]
 
 <blockquote>Advice from Will - Perseverance and grit through!</blockquote>
 
  [1]: http://www.3howls.com/
- [2]: https://www.amazon.com/Alt-Whiskeys-Alternative-Distilling-Adventurous/dp/0983350000 
+ [2]: http://amzn.to/2CnKcCF
  
 
 <br>
