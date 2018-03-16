@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://www.mastrogiannisdistillery.com/</id>
+	<title>Mastrogiannis Distillery</title>
+	<updated>2018-02-28T23:10:35-08:00</updated>
+
+	<subtitle>Mastrogiannis distillery is a small batch family owned and operated Greek brandy distillery located in Lakewood, WA.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>iliasm</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://www.mastrogiannisdistillery.com/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://www.mastrogiannisdistillery.com/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html</id>
+			<title>Distillery Nation Podcast #33 - The Professor</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #33 - The Professor" />
+			<updated>2018-02-28T00:00:00-08:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>In this episode we sat down and chat with Paul Hughes a professor of distilling from Oregon State University</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html">&lt;p&gt;In this episode of the Distillery Nation podcast we chat with Paul Hughes. Paul holds a PhD in Organic Chemistry, an expert in beer and distillery operation specifically around taste, botanical flavors and performance along with accelerated methods of maturation. We discuss everything from botanical flavors and compounds to fermentation and enzymes to maturation of spirits, favorite books and advice for small distilleries.&lt;/p&gt;
+
+&lt;h4&gt;Listen to my interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2018/033-DNP-TheProfessor.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2CP4XDg&quot;&gt;Book #1: Beer: Quality, Safety and Nutritional Aspects (Paul’s Book) (Affiliate)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2EZTZk8&quot;&gt;Book #2: Economic Microbiology: Alcoholic Beverages volume 1 (Affiliate)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2GTvUbn&quot;&gt;Book #2: Fundamentals of Distilling Practice (Affiliate)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbit.io&quot;&gt;Podcast Sponsor: DropBit Technologies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;Facebook Group: Distillery Nation&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from Paul - Look at all aspects of distilling!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on Apple Podcasts!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2018-02-28T00:00:00-08:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html</id>
+			<title>Distillery Nation Podcast #32 - Mastrogiannis Distillery</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #32 - Mastrogiannis Distillery" />
+			<updated>2018-01-30T00:00:00-08:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>In this episode we reverse the mic and I get interviewed by my good friend Andrew</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html">&lt;p&gt;For our first episode of 2018, we decided to reverse the microphone and have Andrew a podcast listener and a big help during the 2017 harvest ask the normal questions I use for guests. We talk on how I started the distillery, favorite books, strengths and weaknesses and everything in between.&lt;/p&gt;
+
+&lt;p&gt;I hope you enjoy this and find value. If you do please leave us a review on Apple Podcasts, we read every single one and they help the podcast grow.&lt;/p&gt;
+
+&lt;h4&gt;Listen to my interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2018/032-DNP-Mastrogiannis.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2DO1dTV&quot;&gt;Book #1: Re-Work (Affiliate)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2GtxYHz&quot;&gt;Book #2: Ready, Fire, Aim (Affiliate)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbit.io/&quot;&gt;Podcast Sponsor: DropBit Technologies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/groups/distillerynation&quot;&gt;Facebook Group: Distillery Nation&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from Ilias - Have a good support system at home, because the next few years will suck!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on Apple Podcasts!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2018-01-30T00:00:00-08:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html</id>
+			<title>Distillery Nation Podcast #31 - Green Door Distilling</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #31 - Green Door Distilling" />
+			<updated>2017-12-29T00:00:00-08:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>In this episode we talk to Jon Good, co-owner and distiller of Green Door Distilling</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html">&lt;p&gt;In our last episode for 2017, we had the pleasure of talking with Jon Good from Green Door Distilling located in Kalamazoo, Michigan. Jon had an incredible story and he shares with us his early years into the business, making booze, favorite books, habits and everything in between. A truly excellent episode to finish the year strong and continue into January 2018.&lt;/p&gt;
+
+&lt;p&gt;I hope you enjoy this and find value. Happy New Year, and kick ass in 2018!&lt;/p&gt;
+
+&lt;h4&gt;Listen to Jon's interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2017/031-DNP-GreenDoor.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.greendoordistilling.com/&quot;&gt;Green Door Distilling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2DyYqNZ&quot;&gt;Book #1: The Hard Thing About Hard Things (Affiliate)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbit.io/&quot;&gt;Podcast Sponsor: DropBit Technologies&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from Jon - Define what your market needs!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on Apple Podcasts!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2017-12-29T00:00:00-08:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html</id>
+			<title>Distillery Nation Podcast #30 - 3 Howls Distillery</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #30 - 3 Howls Distillery" />
+			<updated>2017-11-29T00:00:00-08:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>In this episode we talk to Will Maschmeier, owner and distiller of 3 Howls distillery</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html">&lt;p&gt;In this episode of the Distillery Nation Podcast I chatted with Will Maschmeier from 3 Howls distillery, and although my accent gets into the way of pronunciating 3 Howls, Will is doing great things! You can see from the very few moments of talking with him, his passition for quality spirits and process optimization. We talk everything from restructuring his business, to favorite books and adive to growing a distillery.&lt;/p&gt;
+
+&lt;h4&gt;Listen to Will's interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2017/030-DNP-ThreeHowls.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.3howls.com/&quot;&gt;3 Howls Distillery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2CnKcCF&quot;&gt;Book #1: Alt Whiskeys: Alternative Whiskey Recipes and Distilling (Affiliate)&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from Will - Perseverance and grit through!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on Apple Podcasts!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2017-11-29T00:00:00-08:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/Argo/index.html</id>
+			<title>Distillery Nation Podcast #29 - Argo Distillery</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/Argo/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #29 - Argo Distillery" />
+			<updated>2017-10-31T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>In this episode we talk to Yannis Chandolias, owner and distiller of Argo distillery</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/Argo/index.html">&lt;p&gt;In this episode of the Distillery Nation Podcast I had a chat with Yannis Chandolias, owner and distiller of Argo distillery. Argo distillery is a producer of mastic liqueur and soon the first whisky of Greece. Located in Athens Greece, Yannis has a long family history in the trade of spirits and now with his own company producing an authentic spirit and soon something new for the region.&lt;/p&gt;
+
+&lt;h4&gt;Listen to Yannis interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2017/029-DNP-Argo.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.argodistillery.gr/&quot;&gt;Argo Distillery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://adiforums.com/index.php&quot;&gt;Internet Resource: ADI Forums&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Manufacture-Whisky-Plain-Spirit/dp/1906000050&quot;&gt;Book #1: The Manufacture of Whisky and Plain Spirit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Science-Technologies-Whiskies-J-Piggott/dp/0582044286/&quot;&gt;Book #2: The Science and Technologies of Whiskies&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from Yannis - Expirement alot and be patient!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on Apple Podcasts!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2017-10-31T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html</id>
+			<title>Distillery Nation Podcast #28 - Two Year Anniversary</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #28 - Two Year Anniversary" />
+			<updated>2017-09-27T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>Our Two Year Anniversary of the Distillery Nation Podcast</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html">&lt;p&gt;September 15 2015 marks when I first released the first few episodes. The goal was simple to document and share what it takes open a small craft distillery. The podcast idea started a few months earlier when I was very serious about starting a distillery to produce Grappa. After a few conversations with fellow podcasters I decided it was time to do a interview style podcast where I try to answer as many questions that not only helps the audience but myself in 35 minutes or less.&lt;/p&gt;
+
+&lt;p&gt;So since last year, we added 11 interviews as I release a new episode every month and it was also my first year in production with the distillery. We crushed 4 tons of grapes for some brandy, and processed another 8 tons of pomace for grappa, also processed slightly over 1000 gallons of wine that turned into Ouzo so overall small but steady.&lt;/p&gt;
+
+&lt;h4&gt;Listen to our Two Year Anniversary podcast&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2017/028-DNP-MyDad.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://g-still.com/products/genio-still/&quot;&gt;Genio Still&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pelletlab.com/distillation_apparatus&quot;&gt;Lab Still (1000 ML)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://primeusascales.com/&quot;&gt;Scales for proofing (NTEP approved for TTB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from my Ilias - Be patient and continue putting in the work!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on Apple Podcasts!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2017-09-27T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html</id>
+			<title>Distillery Nation Podcast #27 - My Dad</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #27 - My Dad" />
+			<updated>2017-08-30T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>A very special episode of the podcast where I chat with my dad and my brother</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html">&lt;p&gt;A very special episode. I had the privilade of sitting down with my brother and dad and recorded my dad’s prespective around wine, how he started into this business, preference between red or white grapes, his favorite drink and so much more!&lt;/p&gt;
+
+&lt;p&gt;At 80 years old, he’s still going strong and he has been the inspiration for a lot of things including the distillery and alot of my current processes around fermenation, wine making and distilling.&lt;/p&gt;
+
+&lt;h4&gt;Listen to my Dad's interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2017/027-DNP-MyDad.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;blockquote&gt;Advice from my Dad -  Love what you do, even when you don't get paid!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on iTunes!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2017-08-30T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html</id>
+			<title>Distillery Nation Podcast #26 - Sea Bishop</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #26 - Sea Bishop" />
+			<updated>2017-07-29T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>In this episode we talk to John Emrick, owner and distiller of Sea Bishop distillery</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html">&lt;p&gt;In this episode of the Distillery Nation Podcast I had a chat with John Emrick from Sea Bishop distillery. Sea Bishop is located in Black Diamond WA and specilizing in Gin. John talked everything from issues with finding the right location, to distribution to streamlining his production process. An episode full of good solid advice and details around small craft Gin production!&lt;/p&gt;
+
+&lt;h4&gt;Listen to John's interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2017/026-DNP-SeaBishop.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.seabishopspirits.com/&quot;&gt;Sea Bishop Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amzn.to/2v2TlN5&quot;&gt;Book: Not Taco Bell Material (affiliate link)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.washingtondistillersguild.org/&quot;&gt;Washington Distillers Guild&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from John -  Before you lock on a location, talk to your local city authorities!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on iTunes!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2017-07-29T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html</id>
+			<title>Distillery Nation Podcast #25 - Tim Girvin</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #25 - Tim Girvin" />
+			<updated>2017-06-29T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>In this episode we talk to Tim Girvin, a 40 year veteran in the design space</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html">&lt;p&gt;In this episode of the Distillery Nation Podcast I chatted with Tim Girvin. Tim has over 40 years’ experience in the design space and has helped brands develop a strategy and story around their core and ideas. In this episode, we chatted about the things you need to include, how to tell your story and his advice for running a successful business. One tip, go check out Tim’s handwriting on Youtube, its amazing.&lt;/p&gt;
+
+&lt;h4&gt;Listen to Tim's interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2017/025-DNP-TheDesigner.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:girvin@girvin.com&amp;gt;&quot;&gt;Tim’s email&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.girvin.com/&quot;&gt;Girvin Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=T29eWHc8r98&quot;&gt;Tim’s Calligraphy&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from Tim -  Spend time listening and paying attention to your customers!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on iTunes!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2017-06-29T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html</id>
+			<title>Distillery Nation Podcast #24 - David Dunbar</title>
+			<link href="http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html" rel="alternate" type="text/html" title="Distillery Nation Podcast #24 - David Dunbar" />
+			<updated>2017-05-30T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>iliasm</name>
+					
+					
+					
+				</author>
+			
+			<summary>In this episode we talk to David Dunbar, a 45 year veteran in the distilled spirits federal law</summary>
+			<content type="html" xml:base="http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html">&lt;p&gt;In this episode of the Distillery Nation Podcast I chatted with David Dunbar. Dave has over forty years of “hands-on” experience with the federal laws and regulations that govern beverage alcohol of all types, so we talk all things distillery regulation and compliance.&lt;/p&gt;
+
+&lt;h4&gt;Listen to David's interview&lt;/h4&gt;
+&lt;audio src=&quot;http://www.mastrogiannisdistillery.com/distillerynation/2017/024-DNP-TheConsultant.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;h3&gt;LINKS AND RESOURCES MENTIONED IN THIS EPISODE&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:dhdunbar1@gmail.com&quot;&gt;David’s email&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sipsclass.org&quot;&gt;SIPS Class&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/david-dunbar-31725550&quot;&gt;David on LinkedIn&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Advice from David -  Focus only on the regulations that apply to your distillery, if you are a brandy distillery - focus on brandy!&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Thanks for Listening!&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for joining me again this month. Have some feedback you’d like to share? Leave a note in the comment section below!&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, please share it with your friends.&lt;/p&gt;
+
+&lt;p&gt;Also, please leave an honest review for &lt;a href=&quot;https://itunes.apple.com/us/podcast/distillery-nation-podcast/id1040367741&quot;&gt;The Distillery Nation Podcast on iTunes!&lt;/a&gt; Ratings and reviews are extremely helpful and greatly appreciated! They do matter in the rankings of the show, and I read each and every one of them.&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;older-podcasts&quot;&gt;Older Podcasts&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheProfessor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #33 - The Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Mastrogiannis/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #32 - Mastrogiannis Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GreenDoor/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #31 - Green Door Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ThreeHowls/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #30 - 3 Howls Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Argo/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #29 - Argo Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TwoYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #28 - Two Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/MyDad/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #27 - My Dad&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeaBishop/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #26 - Sea Bishop&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheDesigner/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #25 - Tim Girvin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheConsultant/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #24 - David Dunbar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheAttorney/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #23 - Brian DeFoe&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/FourPillars/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #22 - Four Pillars&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TheInsurance/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #21 - Dianna Connelly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OOLA/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #20 - OOLA Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Temple/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #19 - Temple Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Admiralty/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #18 - Admiralty Distillers&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Polonee/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #17 - Polonee Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/OneYearAnniversary/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #16 - One Year Anniversary&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Schnapsleiche/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #15 - Schnapsleiche Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Letterpress/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #14 - Letterpress Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/Belgrove/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #13 - Belgrove Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBAudit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #12 - The TTB Audit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TTBPermit/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #11 - The TTB Permit&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/ClaremontDistillery/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #10 - Claremont Distillery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SeattleDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #09 - Seattle Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/2bar/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #08 - 2Bar Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/BigBottom/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #07 - Big Bottom Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/GermainRobin/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #06 - Hubert Germain-Robin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/SoundSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #05 - Sound Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CopperWorks/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #04 - CopperWorks Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/TVDistilling/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #03 - Tualatin Valley Distilling&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/DistilleryEquipment/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #02 - Distillery Equipment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://www.mastrogiannisdistillery.com/podcast/CaptiveSpirits/index.html&quot;&gt;Podcast &amp;middot; &lt;strong&gt;Distillery Nation Podcast #01 - Captive Spirits&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="podcast" />
+			
+			
+				<category term="podcast" />
+			
+
+			<published>2017-05-30T00:00:00-07:00</published>
+		</entry>
+	
+</feed>
